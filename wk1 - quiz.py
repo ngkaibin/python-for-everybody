@@ -6,8 +6,9 @@ What Python statement would you like me to run?
 What is the air-speed velocity of an unladen swallow?
 What is the next machine language instruction to run?
 What Python script would you like me to run?
+What do you like me to do?
 
-Answer: What Python statement would you like me to run?
+Answer:What do you like me to do?
 
 Question 2
 What will the following program print out:
